@@ -33,7 +33,7 @@
  <p><blockquote> A lógica desse circuito segue um parâmetro de detecção do dendor, delimitado e corrigido à presença de qualquer objeto em seu horizonte de 12 centímetros. A o adentrar tal raio, o objeto é acertado por uma rajada curta do líquido, proveniente da rotação da bomba que, por sua vez, é acionada pela ponte-h.</blockquote></p>
 </br>
 <br>
- <img scr="/src/alcoholgif.gif">
+ <img src="/src/alcoholgif.gif">
 </br>
 <br>
  <h3>• Dispenser de Máscaras (in progress)<h3>
@@ -49,5 +49,5 @@
 </br>
 <br>
  <h2>:star: Developers: :star:</h2>
- <img scr="/src/developers.png">
+ <img src="/src/developers.png">
 </br>

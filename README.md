@@ -26,11 +26,11 @@
 </br>
 <br>
  <img src="/src/wideapresentation.png">
- <p><blockquote> O desenvolvimento do dispenser de álcool em gel foi simulado e testado anteriormente, pra evitar problemas futuras e diminuir perigos. Nesses sentido, foi usado uma ponte-H para permitir que a bomba ( motor DC ) fosse controlada pelo arduino sem requisitar muita corrente deste. A ponte-h permite variar o sentido da corrente e regular a potência. Com isso, conectamos o motor, a alimentação do motor( bateira 9v ) e o sensor ultrassônico.</blockquote></p>
+ <p><blockquote> O desenvolvimento do dispenser de álcool em gel foi simulado e testado anteriormente, pra evitar problemas futuros e diminuir perigos. Nesses sentido, foi usado uma ponte-H para permitir que a bomba ( motor DC ) fosse controlada pelo arduino sem requisitar muita corrente desse. A ponte-h permite variar o sentido da corrente e regular a potência. Com isso, conectamos o motor, a alimentação do motor( bateira 9v ) e o sensor ultrassônico.</blockquote></p>
 </br>
 <br>
  <img src="/src/circuitalcohol.png">
- <p><blockquote> A lógica desse circuito segue um parâmetro de detecção do sendor, delimitado e corrigido à presença de qualquer objeto em seu horizonte de 12 centímetros. Ao adentrar em tal raio, o objeto é acertado por uma rajada curta do líquido, proveniente da rotação da bomba que, por sua vez, é acionada pela ponte-h.</blockquote></p>
+ <p><blockquote> A lógica desse circuito segue um parâmetro de detecção do sensor, delimitado e corrigido à presença de qualquer objeto em seu horizonte de 12 centímetros. Ao adentrar em tal raio, o objeto é acertado por uma rajada curta do líquido, proveniente da impulso da bomba que, por sua vez, é acionada pela ponte-h.</blockquote></p>
 </br>
 <br>
  <img src="/src/alcoholgif.gif">
@@ -45,7 +45,7 @@
 </br>
 <br>
   <h4>       Lista de Projetos Feitos no Auto CAD </h4>
-  <a href="https://drive.google.com/drive/folders/1cTvy83HeWpoMg4m3mefobvEgXWeoz9Jz?usp=sharing"> DRIVE COM ARQUIVOS, DESENHOS e PROJETOS de JOAQUIM </a>
+  <a href="https://drive.google.com/drive/folders/1cTvy83HeWpoMg4m3mefobvEgXWeoz9Jz?usp=sharing"> DRIVE COM ARQUIVOS, DESENHOS e PROJETOS </a>
 </br>
 <br>
  <h2>:star: Developers: :star:</h2>

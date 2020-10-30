@@ -25,5 +25,29 @@
  <h3>• Dispenser de Álcool<h3>
 </br>
 <br>
- <img src="/src/wideapresetation.png">
+ <img src="/src/wideapresentation.png">
+ <p><blockquote> O desenvolvimento do dispenser de álcool em gel foi simulado e testado anteriormente, pra evitar problemas futuras e diminuir perigos. Nesses sentido, foi usado uma ponte-H para permitir que a bomba ( motor DC ) fosse controlada pelo arduino sem requisitar muita corrente deste. A ponte-h permite variar o sentido da corrente e regular a potência. Com isso, conectamos o motor, a alimentação do motor( bateira 9v ) e o sensor ultrassônico.</blockquote></p>
+</br>
+<br>
+ <img src="/src/circuitalcohol.png">
+ <p><blockquote> A lógica desse circuito segue um parâmetro de detecção do dendor, delimitado e corrigido à presença de qualquer objeto em seu horizonte de 12 centímetros. A o adentrar tal raio, o objeto é acertado por uma rajada curta do líquido, proveniente da rotação da bomba que, por sua vez, é acionada pela ponte-h.</blockquote></p>
+</br>
+<br>
+ <img scr="/src/alcoholgif.gif">
+</br>
+<br>
+ <h3>• Dispenser de Máscaras (in progress)<h3>
+  <blockquote> Estamos trabalhando nisso, em breve sairá resultados por aqui.</blockquote>
+</br>
+<br>
+ <h3>• Montagem e Design (in progress)<h3>
+  <blockquote> Estamos trabalhando nisso, em breve sairá resultados por aqui.</blockquote>
+</br>
+<br>
+  <h4>       Lista de Projetos Feitos no Auto CAD </h4>
+  <a href="https://drive.google.com/drive/folders/1cTvy83HeWpoMg4m3mefobvEgXWeoz9Jz?usp=sharing"> DRIVE COM ARQUIVOS, DESENHOS e PROJETOS de JOAQUIM </a>
+</br>
+<br>
+ <h2>:star: Developers: :star:</h2>
+ <img scr="/src/developers.png">
 </br>

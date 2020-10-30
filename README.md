@@ -30,7 +30,7 @@
 </br>
 <br>
  <img src="/src/circuitalcohol.png">
- <p><blockquote> A lógica desse circuito segue um parâmetro de detecção do dendor, delimitado e corrigido à presença de qualquer objeto em seu horizonte de 12 centímetros. A o adentrar tal raio, o objeto é acertado por uma rajada curta do líquido, proveniente da rotação da bomba que, por sua vez, é acionada pela ponte-h.</blockquote></p>
+ <p><blockquote> A lógica desse circuito segue um parâmetro de detecção do sendor, delimitado e corrigido à presença de qualquer objeto em seu horizonte de 12 centímetros. Ao adentrar em tal raio, o objeto é acertado por uma rajada curta do líquido, proveniente da rotação da bomba que, por sua vez, é acionada pela ponte-h.</blockquote></p>
 </br>
 <br>
  <img src="/src/alcoholgif.gif">

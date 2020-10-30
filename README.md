@@ -17,7 +17,6 @@
 | ALCOHOL DISPENSER |    90%   |    LOW   |
 | MASK DISPENSER    |    10%   |   HIGH   |
 | MDF ASSEMBLY      |    35%   |  MEDIUM  |
-
 <p>
-  <h3> Trabalhos desenvolvidos: </h3>
+ <h2>:star: Trabalhos desenvolvidos ( Works & Details ): :star:</h2>
 </p>

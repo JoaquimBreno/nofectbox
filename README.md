@@ -21,3 +21,9 @@
  <h2>:star: Trabalhos desenvolvidos ( Works & Details ): :star:</h2>
 </br>
 
+<br>
+ <h3>• Dispenser de Álcool<h3>
+</br>
+<br>
+ <img src="/src/wideapresetation.png">
+</br>

@@ -4,6 +4,7 @@
     Comented and Developed by Joaquim Breno 
 */
 
+#include "Arduino.h"
 
 #define echo 4 // define o echo do sensor HC-SR04 no pino 4
 #define trig 5 // define o echo do sensor HC-SR04 no pino 5
